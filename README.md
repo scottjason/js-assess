@@ -1,3 +1,7 @@
+**Test-driven JS practice / assessment by Rebecca Murphey**
+
+**The repo for this project can be found on her gituhub:** https://github.com/rmurphey/js-assessment
+
 # A test-driven JS assessment
 
 This repo includes a set of tests that can be used to assess the skills of
